@@ -13,7 +13,7 @@ news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-I work at  <a href="https://www.leibniz-zas.de/de/">Leibniz-ZAS</a> in Berlin and am affiliated with [Project A05: Modeling meaning-driven register variation](#Modeling meaning-driven register variation), within Collaborative Research Centre (SFB) 1412 "Register".
+I work at  <a href="https://www.leibniz-zas.de/de/">Leibniz-ZAS</a> in Berlin and am affiliated with [Project A05: Modeling meaning-driven register variation](#Modeling-meaning-driven-register-variation), within Collaborative Research Centre (SFB) 1412 "Register".
  
 My research primarily focuses on the interfaces between semantics/pragmatics and research on variation and change. My ongoing dissertation work approaches the question of how intra-individual variation in synchrony (broadly: register competence) relates to language change through the lens of pragmatic reasoning. Toward this end, I am investigating a couple case studies from Icelandic. I draw on a number of methods in my research: experimental, corpus, and computational.
 
