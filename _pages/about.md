@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: Linguist. Semantics/Pragmatics/Sociolinguistics.
+description: Linguist. Semantics/Pragmatics/Sociolinguistics. (She/her); Sie; Hún.
 
 profile:
   align: right
