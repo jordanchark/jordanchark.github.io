@@ -13,7 +13,7 @@ news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-I am part of the scientific staff (wissenschaftliche Mitarbeiterin) at the institute for German language and linguistics (Institut für deutsche Sprache und Linguistik) at the <a href="https://www.linguistik.hu-berlin.de/de">Humboldt-Universität zu Berlin</a>, associated with the Collaborative Research Centre (DE: Sonderforschungsbereich) 1412 "Register" (Project A10; PIs Viola Schmitt and Artemis Alexiadou). 
+I am part of the scientific staff (wissenschaftliche Mitarbeiterin) at the institute for German language and linguistics (Institut für deutsche Sprache und Linguistik) at the <a href="https://www.linguistik.hu-berlin.de/de">Humboldt-Universität zu Berlin</a>, associated with the <a href="https://sfb1412.hu-berlin.de/">Collaborative Research Centre (DE: Sonderforschungsbereich) 1412 "Register"</a> (Project A10; PIs Viola Schmitt and Artemis Alexiadou). 
 
 In Project A10, we are interested in seemingly optional morphosyntactic doubling (e.g. the presence of two comparative morphemes in <i>more taller</i>) and the consequences thereof for our understanding of how situational variation (i.e. register) interfaces with the choices speakers make. Doubling results in more redundancy, which we hypothesise ought to be advantageous in situational contexts involving some degree of uncertainty regarding the question-under-discussion.
 
