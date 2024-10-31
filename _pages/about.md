@@ -17,7 +17,7 @@ I am part of the scientific staff (wissenschaftliche Mitarbeiterin) at the insti
 
 In Project A10, we are interested in seemingly optional morphosyntactic doubling (e.g. the presence of two comparative morphemes in <i>more taller</i>) and the consequences thereof for our understanding of how situational variation (i.e. register) interfaces with the choices speakers make. Doubling results in more redundancy, which we hypothesise ought to be advantageous in situational contexts involving some degree of uncertainty regarding the question-under-discussion.
 
-Before coming to HU, I was a doctoral researcher for three years at the <a href="https://www.leibniz-zas.de/en/">Leibniz-Centre for General Linguistics (ZAS)</a> in Berlin, also affiliated with CRC 1412. I submitted my dissertation "Understanding meaning-driven variation along the grammaticalisation trajectory: the case of Icelandic <i>búinn</i>" (written under the supervision of Uli Sauerland, Stephanie Solt and Artemis Alexiadou) in mid-2024 and I am scheduled to defend on November 13, 2024. You can read a little more about my dissertation below.
+Before coming to HU, I was a doctoral researcher for three years at the <a href="https://www.leibniz-zas.de/en/">Leibniz-Centre for General Linguistics (ZAS)</a> in Berlin, also affiliated with CRC 1412. I submitted my dissertation "Understanding meaning-driven variation along the grammaticalisation trajectory: the case of Icelandic <i>búinn</i>", written under the supervision of <a href="https://www.leibniz-zas.de/en/people/details/sauerland-uli/uli-sauerland/">Uli Sauerland</a>, <a href="https://www.leibniz-zas.de/en/people/details/solt-stephanie/stephanie-solt">Stephanie Solt</a> and <a href="https://www.leibniz-zas.de/en/people/details/alexiadou-artemis/alexiadou-artemis">Artemis Alexiadou</a>, in mid-2024 and I am scheduled to defend on November 13, 2024. You can read a little about my dissertation below.
 
 Feel free to get in touch: jordan.chark [AT] hu-berlin.de
 
@@ -35,12 +35,18 @@ These days, I work mostly on Icelandic (with ocassional forays into other North 
 
 ## Registergeknister
 
-I am part of the production team and occassional co-host of the podcast <a href="https://sfb1412.hu-berlin.de/de/registergeknister/">Registergeknister</a> (alongside Roodabeh Akbari, Sophia Döring and Peter Schmidt). In each episode, we discuss the research of one of the projects of Collaborative Research Centre 1412. The episodes are usually in German. Some of our recent episodes include:
+I am part of the production team and occassional co-host of the podcast <a href="https://sfb1412.hu-berlin.de/de/registergeknister/">Registergeknister</a> (alongside Roodabeh Akbari, Sophia Döring and Peter Schmidt). In each episode, we discuss the research of one of the projects of Collaborative Research Centre 1412. The episodes are usually in German. You can listen <a href="https://registergeknister.buzzsprout.com/">here</a> or wherever you get your podcasts. Some of our recent episodes include:
 
-On social hierarchies and the ancient Egyptian language: <b>Linguistische Ausgrabungen: Wie spricht man mit dem Pharao?</b>
-On the acquisition of academic registers of German: <b>Wie viele Deutsch-Register sprichst du? Registerkompetenz macht den Unterschied</b>
-On adjectives in the history of English and using parsed corpora: <b>Von Rittern und Adjektiven: Wie untersuchen Linguist:innen Variation in historischen Texten?</b>
-On linguistic fieldwork and the multi-lingual context of Bislama in Vanuatu: <b>[EN] Sprachen aus dem Schnellkochtopf: Register in Kreols (Teil 2)</b>
+<ul>
+   <li>On social hierarchies and the ancient Egyptian language: <b>Linguistische Ausgrabungen: Wie spricht man mit dem Pharao?</b></li>
+
+   <li>On the acquisition of academic registers of German: <b>Wie viele Deutsch-Register sprichst du? Registerkompetenz macht den Unterschied</b></li>
+
+   <li>On adjectives in the history of English and using parsed corpora: <b>Von Rittern und Adjektiven: Wie untersuchen Linguist:innen Variation in historischen Texten?</b></li>
+
+   <li>On linguistic fieldwork and the multi-lingual context of Bislama in Vanuatu: <b>[EN] Sprachen aus dem Schnellkochtopf: Register in Kreols (Teil 2)</b></li>
+</ul>
+
 
 ## Outside of linguistics
 
