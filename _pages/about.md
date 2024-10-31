@@ -27,12 +27,6 @@ My dissertation focuses on the interfaces between semantics/pragmatics and resea
 
 My dissertation work is situated more broadly within <a href="https://sfb1412.hu-berlin.de/projects/a05/">Project A05 "Modeling meaning-driven register variation"</a>, directed by PIs Uli Sauerland and Stephanie Solt, based at the <a href="https://www.leibniz-zas.de/en/">ZAS</a>. The project deals with so-called non-equivalent alternatives: situational alternations between linguistic expressions that have functional overlap but are logically distinct. For instance, "7:53" as opposed to "8 o'clock". These differ from prototypical sociolinguistic variables, which are logically equivalent. Logical overlap, however, necessitates the activation of pragmatic reasoning, which makes certain predictions. We are interested in the relationship between this pragmatic reasoning, on the one hand, and the social meaning evoked by the choice of a given expression, on the other.
 
-## Prior to the PhD
-
-Prior to my employment at HU and ZAS, I did an MSc. in General Linguistics at the <a href="https://www.uni-potsdam.de/en/ling/index">University of Potsdam</a>. During my time in Potsdam, I did research on modality in Finnish using semantic fieldwork methodology (my MSc. thesis) as well as conducted theoretically-driven experiments on embedded questions (in the XPrag.de ExQ project). 
-
-These days, I work mostly on Icelandic (with ocassional forays into other North Germanic languages, as well as German). My interest in the Icelandic language began from a young age. I did my undergraduate studies at the <a href ="https://english.hi.is/">University of Iceland</a>, where I developed a nascent interest in historical linguistics, linguistic variation and language ideology.
-
 ## Registergeknister
 
 I am part of the production team and occassional co-host of the podcast <a href="https://sfb1412.hu-berlin.de/de/registergeknister/">Registergeknister</a> (alongside Roodabeh Akbari, Sophia Döring and Peter Schmidt). In each episode, we discuss the research of one of the projects of Collaborative Research Centre 1412. The episodes are usually in German. You can listen <a href="https://registergeknister.buzzsprout.com/">here</a> or wherever you get your podcasts. Some of our recent episodes include:
@@ -47,6 +41,11 @@ I am part of the production team and occassional co-host of the podcast <a href=
    <li>On linguistic fieldwork and the multi-lingual context of Bislama in Vanuatu: <b>[EN] Sprachen aus dem Schnellkochtopf: Register in Kreols (Teil 2)</b></li>
 </ul>
 
+## Prior to the PhD
+
+Prior to my employment at HU and ZAS, I did an MSc. in General Linguistics at the <a href="https://www.uni-potsdam.de/en/ling/index">University of Potsdam</a>. During my time in Potsdam, I did research on modality in Finnish using semantic fieldwork methodology (my MSc. thesis) as well as conducted theoretically-driven experiments on embedded questions (in the XPrag.de ExQ project). 
+
+These days, I work mostly on Icelandic (with ocassional forays into other North Germanic languages, as well as German). My interest in the Icelandic language began from a young age. I did my undergraduate studies at the <a href ="https://english.hi.is/">University of Iceland</a>, where I developed a nascent interest in historical linguistics, linguistic variation and language ideology.
 
 ## Outside of linguistics
 
