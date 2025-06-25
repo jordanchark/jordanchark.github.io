@@ -12,8 +12,7 @@ profile:
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
-nav: true
-nav_order: 1
+nav: false
 ---
 I am part of the scientific staff (wissenschaftliche Mitarbeiterin) at the institute for German language and linguistics (Institut für deutsche Sprache und Linguistik) at the <a href="https://www.linguistik.hu-berlin.de/de">Humboldt-Universität zu Berlin</a>, associated with the <a href="https://sfb1412.hu-berlin.de/">Collaborative Research Centre (DE: Sonderforschungsbereich) 1412 "Register"</a> (Project A10; PIs <a href="https://sites.google.com/view/viola-schmitt/home">Viola Schmitt</a> and <a href="https://www.leibniz-zas.de/en/people/details/alexiadou-artemis/alexiadou-artemis">Artemis Alexiadou</a>). 
 
