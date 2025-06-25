@@ -107,7 +107,6 @@ collections:
   pages:
     output: true
     permalink: /:name/
-
 news_limit: 5
 
 # -----------------------------------------------------------------------------

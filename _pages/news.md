@@ -6,3 +6,5 @@ news: true
 ---
 
 # News
+
+{% include news.html %}
