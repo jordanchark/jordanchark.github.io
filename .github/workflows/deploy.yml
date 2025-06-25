@@ -15,18 +15,22 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Checkout code
-      uses: actions/checkout@v2
+      uses: actions/checkout@v4
     - name: Setup Ruby
       uses: ruby/setup-ruby@v1
       with:
         ruby-version: '3.2.0'
     - name: Enable bundler cache
-      uses: actions/cache@v2
+      uses: actions/cache@v4
       with:
         path: vendor/bundle
         key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
         restore-keys: |
           ${{ runner.os }}-gems-
+    - name: Install ImageMagick
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y libmagickwand-dev imagemagick
     - name: Install deps
       run: |
         gem install bundler
