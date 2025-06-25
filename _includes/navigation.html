@@ -1,0 +1,26 @@
+<!-- This finds the current page so it can be highlighted -->
+{% for entry in site.data.navigation %}
+  {% capture fullurl %}{{ site.baseurl }}{{ entry.url }}{% endcapture %}
+  {% if fullurl == page.url %}
+    {% assign current_page = fullurl %}
+    {% break %}
+  {% elsif page.url contains fullurl %}
+    {% assign current_page = fullurl %}
+  {% endif %}
+{% endfor %}
+
+<!-- Build the navigation bar -->
+<nav class="navbar">
+  <ul class="nav-list">
+    {% for entry in site.data.navigation %}
+      {% if entry.url == current_page %}
+        {% assign current = ' class="active"' %}
+      {% else %}
+        {% assign current = '' %}
+      {% endif %}
+      <li{{ current }}>
+        <a href="{{ site.baseurl }}{{ entry.url }}">{{ entry.title }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+</nav>
