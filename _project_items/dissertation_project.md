@@ -1,6 +1,6 @@
 ---
 title: "Dissertation project: Understanding meaning driven variation along the grammaticalisation trajectory. The case of Icelandic <i>búinn</i>."
-status: complete
+status: completed
 start_date: 2020-09
 collaborators:
   - name: "Uli Sauerland (Supervisor)"
