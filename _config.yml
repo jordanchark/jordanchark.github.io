@@ -104,6 +104,9 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
+  project_items:
+    output: false
+    sort_by: date
   pages:
     output: true
     permalink: /:name/
