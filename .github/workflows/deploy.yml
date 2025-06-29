@@ -19,40 +19,68 @@ jobs:
       uses: ruby/setup-ruby@v1
       with:
         ruby-version: '3.2.0'
-        bundler-cache: true
         
+    - name: Enable bundler cache
+      uses: actions/cache@v4
+      with:
+        path: vendor/bundle
+        key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
+        restore-keys: |
+          ${{ runner.os }}-gems-
+          
     - name: Install ImageMagick
       run: |
         sudo apt-get update
         sudo apt-get install -y libmagickwand-dev imagemagick
+        
+    - name: Install Ruby dependencies
+      run: |
+        echo "Installing bundler..."
+        gem install bundler
+        echo "Configuring bundle path..."
+        bundle config path vendor/bundle
+        echo "Bundle version:"
+        bundle version
+        echo "Ruby version:"
+        ruby --version
+        echo "Installing gems..."
+        bundle install --jobs 4 --retry 3 --verbose
+        
+    - name: Install Node dependencies
+      run: |
+        npm install -g @mermaid-js/mermaid-cli
         
     - name: Setup deploy options
       id: setup
       run: |
         git config --global user.name "GitHub Action"
         git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-        if [[ ${GITHUB_REF} = refs/pull/*/merge ]]; then
+        if [[ ${GITHUB_REF} = refs/pull/*/merge ]]; then # pull request
           echo "SRC_BRANCH=${GITHUB_HEAD_REF}" >> $GITHUB_OUTPUT
           echo "NO_PUSH=--no-push" >> $GITHUB_OUTPUT
-        elif [[ ${GITHUB_REF} = refs/heads/* ]]; then
+        elif [[ ${GITHUB_REF} = refs/heads/* ]]; then # branch, e.g. master, source etc
           echo "SRC_BRANCH=${GITHUB_REF#refs/heads/}" >> $GITHUB_OUTPUT
         fi
         echo "DEPLOY_BRANCH=gh-pages" >> $GITHUB_OUTPUT
         
+    - name: Debug deploy script
+      run: |
+        echo "Checking deploy script..."
+        ls -la bin/deploy || echo "bin/deploy not found"
+        ls -la deploy || echo "deploy not found"
+        pwd
+        ls -la
+        
     - name: Deploy website 
       run: |
-        # Find the deploy script
         if [ -f bin/deploy ]; then
-          DEPLOY_SCRIPT="bin/deploy"
+          echo "Using bin/deploy"
+          echo "y" | bin/deploy --verbose ${{ steps.setup.outputs.NO_PUSH }} --src ${{ steps.setup.outputs.SRC_BRANCH }} --deploy ${{ steps.setup.outputs.DEPLOY_BRANCH }}
         elif [ -f deploy ]; then
-          DEPLOY_SCRIPT="./deploy"
+          echo "Using ./deploy"
+          echo "y" | ./deploy --verbose ${{ steps.setup.outputs.NO_PUSH }} --src ${{ steps.setup.outputs.SRC_BRANCH }} --deploy ${{ steps.setup.outputs.DEPLOY_BRANCH }}
         else
           echo "Deploy script not found!"
+          ls -la
           exit 1
         fi
-        
-        # Make it executable
-        chmod +x "$DEPLOY_SCRIPT"
-        
-        # Run deploy with automatic yes
-        echo "y" | "$DEPLOY_SCRIPT" --verbose ${{ steps.setup.outputs.NO_PUSH }} --src ${{ steps.setup.outputs.SRC_BRANCH }} --deploy ${{ steps.setup.outputs.DEPLOY_BRANCH }}
