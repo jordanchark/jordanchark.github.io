@@ -10,15 +10,15 @@ collaborators:
   - name: "Artemis Alexiadou (Supervisor)"
     affiliation: "Leibniz Zentrum Allgemeine Sprachwissenschaft / Humboldt-Universität zu Berlin"
 links:
-  - text: "Project Website (Collaborative Research Centre 1412, "Register")"
+  - text: "Project Website (Collaborative Research Centre 1412, Register)"
     url: "https://sfb1412.hu-berlin.de/de/projekte/a05/"
 papers:
-  - citation: "Chark, Jordan. (2023). "A perfect-like stative: Icelandic'búinn að'and pragmatic competition in the aspectual domain." In: Proceedings of Sinn und Bedeutung."
+  - citation: "Chark, Jordan. (2023). "A perfect-like stative: Icelandic 'búinn að' and pragmatic competition in the aspectual domain." In: Proceedings of Sinn und Bedeutung."
     volume: "27"
     pages: "146-164"
     url: "https://ojs.ub.uni-konstanz.de/sub/index.php/sub/article/view/1061"
-  - citation: "Chark, Jordan. (2025). Discourse structure and the reorganisation of the Icelandic aspectual system. In: Discourse structure and narration: A diachronic view from Germanic. Open Germanic Linguistics"
-    volume: "13"
+  - citation: "Chark, Jordan. (2025). Discourse structure and the reorganisation of the Icelandic aspectual system. In: Discourse structure and narration: A diachronic view from Germanic. Berlin: Language Science Press."
+    volume: "Open Germanic Linguistics 13"
     url: "https://langsci-press.org/catalog/book/503"
 	pages: "85-154"
 presentations:
