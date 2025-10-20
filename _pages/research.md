@@ -11,7 +11,6 @@ updated: 2025-10-20
 <details open>
   <summary><strong>Social meaning and register variation</strong></summary>
   <div class="card">
-    Investigating how expressivity, situational context, and pragmatic reasoning shape socially meaningful linguistic variation.
 
     <ul>
       <li>
@@ -27,7 +26,7 @@ updated: 2025-10-20
 
       <li>
         <strong>11 Oct 2023</strong> — <em>Social meaning has multiple sources: Form vs. meaning-driven variation</em>.<br>
-        <em>Semantics and Philosophy in Europe 12</em>, Université Côte d’Azur, Nice, France.  
+        Talk at <em>Semantics and Philosophy in Europe 12</em>, Université Côte d’Azur, Nice, France.  
         <em>Joint work with Uli Sauerland and Stephanie Solt.</em>
       </li>
 
@@ -61,9 +60,12 @@ updated: 2025-10-20
 <details>
   <summary><strong>Historical sociolinguistics</strong></summary>
   <div class="card">
-    Quantitative and qualitative study of language change across social dimensions in Icelandic corpora.
 
     <ul>
+    <li>
+      <strong>23 May 2025</strong> — <em>Literacy, gender, and the emergence of a novel perfect construction in 19th-century Icelandic personal letters</em>.<br>
+      Talk at <em>Historical Sociolinguistics Network Conference 2025</em>, University of Bristol, Bristol, UK.
+    </li>
       <li>
         <strong>25 Jan 2025</strong> — <em>Samspil kyns, stéttar og menntunar í útbreiðslu lokins horfs með <i>búinn</i> í íslenskum sendibréfum frá 19. öld</em>  
         (<em>Gender, social class, and education in the spread of the periphrastic perfect with <i>búinn</i> in 19th-century Icelandic personal letters</em>).<br>
@@ -76,7 +78,7 @@ updated: 2025-10-20
 
 ---
 
-## Project Context
+## Projects
 
 <div class="card">
   <strong>Current Position</strong><br>
