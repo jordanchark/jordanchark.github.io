@@ -48,3 +48,39 @@ body.sticky-bottom-footer {
 *****************************************************************************/
 
 // TODO: redefine projects layout.
+
+/* Layout container */
+.container { max-width: 68rem; margin: 0 auto; padding: 1.2rem; }
+.container--narrow { max-width: 56rem; }
+
+/* Page hero */
+.page-hero { margin-bottom: 1rem; }
+.page-title { margin: 0 0 .25rem 0; line-height: 1.15; }
+.page-subtitle { margin: 0; opacity: .8; }
+
+/* Meta */
+.meta { font-size: .9rem; opacity: .7; margin: 0 0 1.25rem 0; }
+
+/* TOC */
+.toc { margin: 1rem 0 1.5rem; }
+.toc details { border: 1px solid #e5e7eb; border-radius: 8px; padding: .75rem 1rem; background: #fafafa; }
+.toc summary { cursor: pointer; font-weight: 600; margin-bottom: .5rem; }
+.toc ul { margin: 0; }
+
+/* Content */
+.content { display: grid; gap: 1rem; }
+.content h2, .content h3 { scroll-margin-top: 6rem; }
+.content p { line-height: 1.7; }
+
+/* “Card” blocks (opt-in via .card) */
+.card { border: 1px solid #e5e7eb; border-radius: 10px; padding: 1rem 1.25rem; background: #fff; }
+.card h3 { margin-top: 0; }
+
+/* Inline callouts */
+.callout { border-left: 4px solid #4b5563; padding: .75rem 1rem; background: #f9fafb; border-radius: 6px; }
+
+/* Responsive niceties */
+@media (min-width: 900px) {
+  .container--narrow { max-width: 62rem; }
+}
+
