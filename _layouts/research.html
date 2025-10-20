@@ -2,27 +2,8 @@
 layout: default
 ---
 <main class="container container--narrow">
-
-  <header class="page-hero">
-    <h1 class="page-title">{{ page.title }}</h1>
-    {% if page.subtitle %}<p class="page-subtitle">{{ page.subtitle }}</p>{% endif %}
-  </header>
-
-  <section class="page-meta">
-    {% if page.updated %}<p class="meta">Updated: {{ page.updated | date: "%B %-d, %Y" }}</p>{% endif %}
-  </section>
-
-  <aside class="toc">
-    <details open>
-      <summary>On this page</summary>
-      <!-- Kramdown TOC works on GitHub Pages -->
-      * TOC
-      {:toc}
-    </details>
-  </aside>
-
   <article class="content">
     {{ content }}
   </article>
-
 </main>
+

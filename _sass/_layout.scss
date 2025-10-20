@@ -84,3 +84,79 @@ body.sticky-bottom-footer {
   .container--narrow { max-width: 62rem; }
 }
 
+
+/*****************************************************************************
+* Projects
+*****************************************************************************/
+
+
+/* Containers */
+.container { max-width: 68rem; margin: 0 auto; padding: 1.2rem; }
+.container--narrow { max-width: 56rem; }
+
+/* Content rhythm */
+.content { display: grid; gap: 1rem; }
+.content h2, .content h3 { scroll-margin-top: 6rem; }
+.content p { line-height: 1.7; }
+
+/* Neutral “card” that works in light/dark without setting a background */
+.card {
+  border: 1px solid rgba(0,0,0,.14);
+  border-radius: 10px;
+  padding: 1rem 1.25rem;
+  background: transparent; /* let the theme handle bg */
+}
+.card h3 { margin-top: 0; }
+
+/* Dark mode tuning */
+@media (prefers-color-scheme: dark) {
+  .card { border-color: rgba(255,255,255,.18); }
+}
+
+/* (Optional) subtle callout that also adapts to theme */
+.callout {
+  border-left: 4px solid currentColor;
+  padding: .75rem 1rem;
+  border-radius: 6px;
+  background: transparent;
+  opacity: .95;
+}
+
+/* ---------- Research page add-ons (clean, dark/light safe) ---------- */
+
+/* Prefer not to override the theme’s .container.
+   Only add a narrower variant we can opt into in the layout. */
+.container--narrow { max-width: 56rem; margin: 0 auto; padding: 1.2rem; }
+
+/* Content rhythm */
+.content { display: grid; gap: 1rem; }
+.content h2, .content h3 { scroll-margin-top: 6rem; }
+.content p { line-height: 1.7; }
+
+/* Cards: neutral background (transparent), subtle border that adapts */
+.card {
+  border: 1px solid rgba(0, 0, 0, .14);
+  border-radius: 10px;
+  padding: 1rem 1.25rem;
+  background: transparent; /* let the theme control bg (light/dark) */
+}
+.card h3 { margin-top: 0; }
+
+/* Dark mode tweak: lighten the border in dark themes */
+@media (prefers-color-scheme: dark) {
+  .card { border-color: rgba(255, 255, 255, .18); }
+}
+
+/* Callouts that also adapt to theme */
+.callout {
+  border-left: 4px solid currentColor;
+  padding: .75rem 1rem;
+  border-radius: 6px;
+  background: transparent;
+  opacity: .95;
+}
+
+/* Optional wider cap for larger viewports */
+@media (min-width: 900px) {
+  .container--narrow { max-width: 62rem; }
+}

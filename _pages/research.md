@@ -78,8 +78,6 @@ updated: 2025-10-20
 
 ## Project Context
 
-## Project Context
-
 <div class="card">
   <strong>Current Position</strong><br>
   <em>Researcher (wissenschaftliche Mitarbeiterin)</em><br>
