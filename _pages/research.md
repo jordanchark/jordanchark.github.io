@@ -6,7 +6,7 @@ nav_order: 2
 updated: 2025-10-20
 ---
 
-# Current Research Interests
+# Current Research Topics
 
 <details open>
   <summary><strong>Social meaning and register variation</strong></summary>
@@ -78,12 +78,12 @@ updated: 2025-10-20
 
 ---
 
-## Projects
+## Project Involvement
 
 <div class="card">
   <strong>Current Position</strong><br>
   <em>Researcher (wissenschaftliche Mitarbeiterin)</em><br>
-  <em>Institut für deutsche Sprache und Linguistik</em>, Humboldt-Universität zu Berlin<br>
+  <em>Institut für deutsche Sprache und Linguistik, Humboldt-Universität zu Berlin</em><br>
   Associated with the Collaborative Research Centre (SFB) 1412 
   <em>“Register: Language Users’ Knowledge of Situational-Functional Variation”</em><br>
   <strong>Project A10 – Doubling and Register Variation</strong><br>
@@ -111,9 +111,7 @@ updated: 2025-10-20
   <strong>PIs:</strong> Uli Sauerland, Stephanie Solt<br>
   <strong>Period:</strong> 09.2020 – 12.2023
   <p>
-    Project A05 examined how non-equivalent linguistic alternatives interact with pragmatic reasoning 
-    and register-specific meaning. The project combined formal semantic analysis with corpus and 
-    game-theoretic modeling to study variation and change.
+    Project A05 examines the case of alternatives that are not semantically equivalent, unlike prototypical sociolinguistic variables. Alternations of this nature are often register-sensitive. This perspective sheds novel light on the interface between situational variation and the core grammatical apparatus.
   </p>
   <p>
     <a href="https://sfb1412.hu-berlin.de/projects/a05/">Project A05 page →</a>
