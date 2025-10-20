@@ -1,6 +1,6 @@
 ---
 layout: research
-title: Research
+title: research
 nav: true
 nav_order: 2
 updated: 2025-10-20
