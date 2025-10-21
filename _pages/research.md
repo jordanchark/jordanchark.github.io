@@ -8,6 +8,8 @@ updated: 2025-10-20
 
 # Current Research Topics
 
+Please find a list of my current research topics below; related conference and workshop presentations are listed.
+
 <details open>
   <summary><strong>Social meaning and register variation</strong></summary>
   <div class="card">
@@ -41,7 +43,6 @@ updated: 2025-10-20
 <details>
   <summary><strong>Context-dependency in formal semantics and pragmatics</strong></summary>
   <div class="card">
-    Exploring how context shapes interpretation, focusing on homogeneity, plurality, and embedded questions.
 
     <ul>
       <li>
@@ -78,7 +79,9 @@ updated: 2025-10-20
 
 ---
 
-## Project Involvement
+# Project Involvement
+
+Here are the projects I've been involved in over the course of my career.
 
 <div class="card">
   <strong>Current Position</strong><br>
