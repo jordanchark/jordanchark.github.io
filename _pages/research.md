@@ -3,7 +3,7 @@ layout: research
 title: research
 nav: true
 nav_order: 2
-updated: 2025-10-20
+updated: 2026-11-04
 ---
 
 # Current Research Topics
@@ -15,6 +15,10 @@ Please find a list of my current research topics below; related conference and w
   <div class="card">
 
     <ul>
+    <li>
+      <strong>11 Feb 2026</strong> — <em>Pushing the upper bound: Modified universal quantifiers and exception tolerance</em>.<br>
+      Talk at <em>Social Meaning and Grammar Workshop</em>, Universität Zürich, Zürich, Switzerland.
+    </li>
       <li>
         <strong>07 Mar 2025</strong> — <em>Expressivity and situational variation: towards a linking hypothesis</em>.<br>
         Talk at <em>Expressivity: Variation and Change</em>, Workshop at 47th Annual Meeting of the German Linguistics Society (DGfS 2025), Johannes Gutenberg University Mainz, Mainz, Germany.
@@ -45,6 +49,10 @@ Please find a list of my current research topics below; related conference and w
   <div class="card">
 
     <ul>
+    <li>
+      <strong>30 Jul 2026</strong> — <em>Modified universal quantifiers, exception tolerance and inquiry termination</em>.<br>
+      Talk at <em>Semantics and Linguistic Theory (SALT) 36, University of Buenos Aires, Buenos Aires, Argentina</em>.
+    </li>
       <li>
         <strong>18 Nov 2022</strong> — <em>Homogeneity Removal as a Local Phenomenon</em>.<br>
         Talk at <em>1st Workshop on Homogeneity and Non-Maximality in Plural Predication and Beyond</em>.
