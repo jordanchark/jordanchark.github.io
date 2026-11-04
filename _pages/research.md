@@ -93,14 +93,15 @@ Here are the projects I've been involved in over the course of my career.
 
 <div class="card">
   <strong>Current Position</strong><br>
-  <em>Researcher (wissenschaftliche Mitarbeiterin)</em><br>
-  <em>Institut für deutsche Sprache und Linguistik, Humboldt-Universität zu Berlin</em><br>
-  Associated with the Collaborative Research Centre (SFB) 1412 
+  <em>Postdoctoral Researcher (wissenschaftliche Mitarbeiterin)</em><br>
+  <em>Leibniz-Zentrum Allgemeine Sprachwissenschaft (ZAS)</em><br>
+  Collaborative Research Centre (SFB) 1412 
   <em>“Register: Language Users’ Knowledge of Situational-Functional Variation”</em><br>
   <strong>Project A10 – Doubling and Register Variation</strong><br>
-  <strong>PIs:</strong> Artemis Alexiadou, Viola Schmitt<br>
-  <strong>Period:</strong> 01.2024 – Present
+  <strong>PI:</strong> Artemis Alexiadou<br>
+  <strong>Period:</strong> 01.2026 – Present
   <p>
+	Contination of Project A10 at ZAS:
     Project A10 investigates seemingly optional morphosyntactic doubling 
     (e.g. two comparative morphemes in <em>more taller</em>) and its implications for how situational 
     dimensions interface with speakers’ choices among available alternatives.  
@@ -114,6 +115,27 @@ Here are the projects I've been involved in over the course of my career.
 
 <div class="card">
   <strong>Previous Position</strong><br>
+  <em>Researcher (wissenschaftliche Mitarbeiterin)</em><br>
+  <em>Institut für deutsche Sprache und Linguistik, Humboldt-Universität zu Berlin</em><br>
+  Associated with the Collaborative Research Centre (SFB) 1412 
+  <em>“Register: Language Users’ Knowledge of Situational-Functional Variation”</em><br>
+  <strong>Project A10 – Doubling and Register Variation</strong><br>
+  <strong>PIs:</strong>Viola Schmitt, Aron Hirsch<br>
+  <strong>Period:</strong> 01.2024 – 01.2026
+  <p>
+  Project A10 investigates seemingly optional morphosyntactic doubling 
+  (e.g. two comparative morphemes in <em>more taller</em>) and its implications for how situational 
+  dimensions interface with speakers’ choices among available alternatives.  
+  Doubling introduces redundancy, which we hypothesise to be advantageous in contexts involving 
+  uncertainty about the current question under discussion.
+  </p>
+  <p>
+    <a href="https://sfb1412.hu-berlin.de/projects/a10/">Project A10 page →</a>
+  </p>
+</div>
+
+<div class="card">
+  <strong>PhD Employment</strong><br>
   <em>Doctoral Researcher (wissenschaftliche Mitarbeiterin)</em><br>
   <em>Leibniz-Zentrum Allgemeine Sprachwissenschaft (ZAS)</em><br>
   Collaborative Research Centre (SFB) 1412 
